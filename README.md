@@ -6,10 +6,12 @@ Repo ini berisi eksperimen klasifikasi jenis kanker paru berbasis citra CT-Scan 
 Menggunakan dataset dari Kaggle: https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
 
 Struktur folder:
+```
 Data/
 ├── train/
 ├── valid/
 └── test/
+```
 
 ## Cara Menjalankan
 ### Di Kaggle
